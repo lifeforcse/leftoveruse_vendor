@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# 🥗 LeftOverLog - Empowering Street Food Vendors
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**LeftOverLog** is a full-stack MERN web application that bridges the gap between **street food vendors** and **raw material suppliers**, solving the critical challenge of sourcing trustworthy, affordable ingredients in real time.
 
-## Available Scripts
+## 🧩 Problem Statement
 
-In the project directory, you can run:
+Street food vendors in India often waste time and money daily sourcing raw materials without knowing which suppliers are:
 
-### `npm start`
+- Affordable 💸  
+- Available 🧺  
+- Trustworthy 🤝  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This lack of transparency and coordination leads to lost income, poor planning, and excess waste.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚀 Our Solution
 
-### `npm test`
+LeftOverLog offers:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+✅ A simple, elegant **Login System** for Vendors & Suppliers  
+✅ A dynamic **Vendor Dashboard** to explore and order available raw materials  
+✅ A rich **Supplier Dashboard** to add and manage their offerings  
+✅ 💡 A clear **hero banner** that educates users about the core problem and solution  
+✅ A scalable and responsive UI built with **React + Tailwind CSS**
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 💻 Tech Stack (MERN)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+| Tech      | Description                          |
+|-----------|--------------------------------------|
+| **MongoDB** | Cloud-based NoSQL Database             |
+| **Express.js** | Lightweight backend framework         |
+| **React.js** | Interactive front-end UI              |
+| **Node.js** | Server-side JavaScript runtime       |
+| **Tailwind CSS** | Fast, utility-first styling          |
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🌟 Key Features
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- 🔐 **Login for Two User Types** (Street Vendor & Supplier)
+- 🧾 **Add, view, and manage raw materials**
+- 🖼️ **Image-based inventory cards**
+- 📊 **Built-in awareness panel** explaining problem solved
+- 🎯 **Focused on real use cases**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🛠️ Installation
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+git clone https://github.com/your-username/leftoverlog.git
+cd leftoverlog
+npm install
+npm start
