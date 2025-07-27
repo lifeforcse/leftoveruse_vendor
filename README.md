@@ -61,17 +61,27 @@ Use the following credentials to explore the app:
 ```bash
 Username: streetvendor
 Password: street123
-🛒 Raw Material Supplier
-bash
-Copy
-Edit
+```
+
+### 🛒 Raw Material Supplier
+```bash
 Username: rawvendor
 Password: raw123
-🛠️ Installation
-bash
-Copy
-Edit
+```
+
+---
+
+## 🛠️ Installation
+
+Clone the repository and start the development server:
+
+```bash
 git clone https://github.com/your-username/leftoverlog.git
 cd leftoverlog
 npm install
 npm start
+```
+
+---
+
+Made with ❤️ to empower local vendors and reduce waste.
