@@ -45,7 +45,14 @@ LeftOverLog offers:
 - 🎯 **Focused on real use cases**
 
 ---
-
+##passkeys
+-street food vendor:
+  *username=streetvendor
+  *password=street123
+-raw material vendor:
+  *username=rawvendor
+  *password=raw123
+---
 ## 🛠️ Installation
 
 ```bash
