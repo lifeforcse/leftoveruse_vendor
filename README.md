@@ -47,11 +47,11 @@ LeftOverLog offers:
 ---
 ##passkeys
 -street food vendor:
-  *username=streetvendor
-  *password=street123
+  -username=streetvendor
+  -password=street123
 -raw material vendor:
-  *username=rawvendor
-  *password=raw123
+  -username=rawvendor
+  -password=raw123
 ---
 ## 🛠️ Installation
 
